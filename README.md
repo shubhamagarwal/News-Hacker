@@ -1,7 +1,7 @@
 ## Prerequisites
 
 ```
-node (version > 10)
+node
 npm
 
 ```
